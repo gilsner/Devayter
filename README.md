@@ -50,7 +50,7 @@
         <img src="https://streak-stats.demolab.com?user=Devayter&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6" alt="GitHub Streak"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devayter&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsner&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
     </a>
 </div>
 
